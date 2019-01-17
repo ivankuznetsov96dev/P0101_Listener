@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         View.OnClickListener onClickListener = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                switch (textView.getId()){
+                switch (v.getId()){
                     case R.id.button1:
                         textView.setText(R.string.tex1);
                         break;
