@@ -3,4 +3,5 @@
     <string name="tex1">Button 1 was pressed</string>
     <string name="tex2">Button 2 was pressed</string>
     <string name="tex3">Button 3 was pressed</string>
+    <string name="buttonEx">Произведено нажатие на TextView</string>
 </resources>
